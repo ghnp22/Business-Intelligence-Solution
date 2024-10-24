@@ -1,1 +1,3 @@
-# Business-Intelligence-Solution
+# Business Intelligence Solution for Purchasing model
+
+
